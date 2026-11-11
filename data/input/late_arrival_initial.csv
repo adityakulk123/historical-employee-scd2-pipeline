@@ -1,0 +1,4 @@
+
+event_id,employee_id,employee_name,department_code,salary,effective_at,source_sequence
+EVT009,105,Kiran,IT,40000,2026-01-01T09:00:00+00:00,1
+EVT010,105,Kiran,FIN,50000,2026-03-01T09:00:00+00:00,2
